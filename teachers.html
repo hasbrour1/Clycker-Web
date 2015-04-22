@@ -38,12 +38,17 @@
 			 <div id="main">
                 
 				<p>Enter Test Data</p><br>
-				
-				<form action="testprep.php" method="POST">
-					Test Code: <input type="text" name="testcode" id="testcode" required="true"><br><br>
+				<form action="test_prep.php" method="POST">
+					Test Code: <input type="text" name="testCode" required="true"><br><br>
+					Number of Questions: <select required="true" name="numQuest">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
 					
-					Enter Questions: <textarea name="comment" id="comment" rows="5" cols="40"></textarea><br>
-					<input type="submit" value="Submit">
+				</select><br><br>
+				Enter Questions: <textarea name="comment" rows="5" cols="40"></textarea><br>
+				<input type="submit" value="Submit">
 				</form>
 				
 				
