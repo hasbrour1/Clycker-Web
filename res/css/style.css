@@ -1,0 +1,288 @@
+/* 
+    Document   : style
+    Created on : Mar 30, 2013, 11:57:57 PM
+    Author     : Rob
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+body{
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+}
+
+#container{
+    width: 1240px;
+    height: 10000px;
+    background-color: white;
+    margin: auto;   
+    border-radius: 10px;    
+    box-shadow: 10px 10px 5px black;
+}
+
+#container_imgs{
+    width: 1240px;
+    height: 32300px;
+    background-color: white;
+    margin: auto;   
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px 5px black;
+}
+
+#header{
+    width: 1240px;
+    height: 150px;
+    font-family: monotype corsiva;
+    font-size:65px;
+    color: black;
+    text-align: center;
+    color: silver;
+    text-shadow: -1px 0 black, 0 1px black, 3px 0 black, 0 -1px black;
+    
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: white;
+    border-radius: 10px;
+ 
+}
+
+#main{
+    width: 1240px;
+    height: 660px;
+    background-color: white;
+    color: black;
+    font-size: large;
+    
+    
+  
+}
+
+#main_img{
+    width: 1240px;
+    height: 32000px;
+    background-color: white;
+    color: black;
+    font-size: large;
+    
+    
+  
+}
+
+#footer{
+    width: 1240px;
+    height: 150px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-weight:bold;
+}
+
+#namespace{
+    width: 1240px;
+    height: 150px;
+    background-color: white;
+    float:left;
+    border-radius: 10px;
+}
+#linkspace{
+    width: 1240px;
+    height: 50px;
+    background-color: white;
+    float:left;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#buffer{
+    
+    padding-left: 50px;
+    width:190px;
+    height: 80px;
+    float:left;
+}
+
+#link1{
+    
+    width: 190px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    float:left;
+    border-radius: 10px;
+}
+
+#link1:hover{
+    width: 190px;
+    height: 50px;
+    background-color: purple;
+    border-radius: 10px;
+}
+
+#link2{
+    width: 190px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    float:left;
+    border-radius: 10px;
+}
+
+#link2:hover{
+    width: 190px;
+    height: 50px;
+    background-color: purple;
+    border-radius: 10px;
+}
+
+#main1{
+	background-color: white;
+    width: 800px;
+    height: 623px;
+    float: left;
+	align: left;
+    font-family: Times;
+	font-size: 24;
+	display: inline-block;
+    
+    
+}
+
+#main2{
+	background-color: white;
+    width: 440px;
+    height: 623px;
+    float: left;
+  
+    
+}
+
+#main3{
+    width: 1240px;
+    height: 623px;
+    float: left;
+    margin-left:5em
+  
+    
+}
+
+#main4{
+    width: 1240px;
+    height: 623px;
+    float: left;
+    
+    margin-top: 30px;
+    margin-left: 80px;
+  
+    
+}
+
+#imgs{
+    float:left;
+    border-style: solid;
+    border-color: turquoise;
+    border-width: 5px;
+}
+
+#imgpad{
+    float:left;
+    height: 350px;
+    width: 250px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top:100px;
+    padding-top:100px;
+    padding-top: 20px;
+}
+
+#imgpad_bracelet{
+    float:left;
+    height: 350px;
+    width: 1240px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top:100px;
+    padding-top:100px;
+    padding-top: 20px;
+}
+
+#buffer2{
+    width:1240px;
+    height: 100px;
+    float:left;
+}
+
+#container_brace{
+    width: 1240px;
+    height: 47300px;
+    background-color: white;
+    margin: auto;   
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px 5px black;
+}
+
+
+#main_brace{
+    width: 1240px;
+    height: 47000px;
+    background-color: white;
+    color: black;
+    font-size: large;
+    
+    
+  
+}
+
+#container_pend{
+    width: 1240px;
+    height: 67300px;
+    background-color: white;
+    margin: auto;   
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px 5px black;
+}
+
+
+#main_pend{
+    width: 1240px;
+    height: 67000px;
+    background-color: white;
+    color: black;
+    font-size: large;
+    
+    
+  
+}
+
+#container_ring{
+    width: 1240px;
+    height: 50300px;
+    background-color: white;
+    margin: auto;   
+    border-radius: 10px;
+    
+    box-shadow: 10px 10px 5px black;
+}
+
+
+#main_ring{
+    width: 1240px;
+    height: 50000px;
+    background-color: white;
+    color: black;
+    font-size: large;
+    
+    
+  
+}
+
+#background{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

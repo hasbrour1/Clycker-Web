@@ -1,0 +1,31 @@
+test
+Test1
+4
+1.What is japans capital?
+a. Tokeo
+b. keoto
+c. florance
+d. new york
+2. What year is it?
+a. 2011
+b. 2012
+c. 2015
+d. 1400
+3. what is not a color?
+a. red
+b. blue
+c. green
+d. vern
+4. How many question are there?
+a. 1
+b. c
+c. b
+d. 4
+test
+Test2
+1
+What is the name of the app?
+a. clicker
+b. click
+c. clycker
+d. clyk
